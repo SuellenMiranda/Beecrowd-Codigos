@@ -1,2 +1,2 @@
-# Exerc-cios-em-GOlang
+# Exercios-em-GOlang
 Exercícios em golang do beecrowd 
